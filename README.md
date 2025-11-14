@@ -28,6 +28,7 @@ El archivo principal, lights_out.py, recibe un tablero inicial y calcula automá
 5. Guardar el archivo ```lights_out.py```
 
    Guardar el archivo ```lights_out.py``` en la carpeta que desees.
+
    En la terminal, desplazarse hasta esa carpeta utilizando el comando ```cd```.
    
 7. Ejecutar el programa
