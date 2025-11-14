@@ -67,10 +67,6 @@ def gauss_mod2(A, b):
 
 
 def resolver_lights_out(tablero):
-    """
-    Entrada: matriz n×n de 0 y 1 representando el estado inicial.
-    Salida: vector solución x (tamaño n²) con 0/1 indicando qué luces presionar.
-    """
     n = len(tablero)
     A = generar_matriz_A(n)
     b = tablero_a_b(tablero)
