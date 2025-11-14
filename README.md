@@ -4,6 +4,7 @@ El archivo principal, lights_out.py, recibe un tablero inicial y calcula automá
 
 ## ¿Cómo correr el archivo?
 1. Tener instalado Python
+   
    Esto se puede comprobar escribiendo
    ```
    python --version
@@ -12,7 +13,9 @@ El archivo principal, lights_out.py, recibe un tablero inicial y calcula automá
    ```
    python3 --version
    ```
-2. Instalar la librería utilizada (NumPy)
+   
+3. Instalar la librería utilizada (NumPy)
+   
    Para instalarla, escrbir en la terminal
    ```
    pip install numpy
@@ -21,10 +24,14 @@ El archivo principal, lights_out.py, recibe un tablero inicial y calcula automá
    ```
    pip3 install numpy
    ```
-3. Guardar el archivo ```lights_out.py```
+   
+5. Guardar el archivo ```lights_out.py```
+
    Guardar el archivo ```lights_out.py``` en la carpeta que desees.
    En la terminal, desplazarse hasta esa carpeta utilizando el comando ```cd```.
-4. Ejecutar el programa
+   
+7. Ejecutar el programa
+
    Una vez ubicados en la carpeta donde se encuentra el archivo, ejecutar
    ```
    python lights_out.py
